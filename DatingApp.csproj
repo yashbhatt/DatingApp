@@ -13,5 +13,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="client\ssl\" />
+  </ItemGroup>
+
 
 </Project>
